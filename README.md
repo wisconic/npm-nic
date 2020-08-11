@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+`Gobal State + Local State + Server State` = `front end FUN` :sweat_smile:
+
+[React-Query](https://react-query.tanstack.com/docs/overview) changed how I think about this equation
+
 <!--
 **npm-nic/npm-nic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
