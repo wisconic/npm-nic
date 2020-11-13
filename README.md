@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 🤔 &nbsp;React-Query changed how I think about global, local, and server state management.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently am finishing my final month of Lambda School.\
+🎓 &nbsp;I'm currently am finishing my final month of [Lambda School](https://lambdaschool.com/).\
 🌱 &nbsp;I'm learning more about Data Visualization, GraphQL, React Query and Full-Stack Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, volunteering, job opportunities or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lehmannic@gmail.com! I'll try to respond as soon as I can.
