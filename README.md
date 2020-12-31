@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 🤔 &nbsp;React-Query changed how I think about global, local, and server state management.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently am finishing my final month of [Lambda School](https://lambdaschool.com/).\
+🔭 &nbsp;I’m currently working with [R.E.S.S.E.T Studio](https://www.ressetstudio.com/pages/about) to help the busy individual practice mindful living in every moment so they can live happier and healthier.\
+🎓 &nbsp;I'm was recently endorsed for completion of [Lambda School's](https://lambdaschool.com/) Full-Stack Web [Track](https://lambdaschool.com/courses/full-stack-web-development).\
 🌱 &nbsp;I'm learning more about Data Visualization, GraphQL, React Query and Full-Stack Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, volunteering, job opportunities or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lehmannic@gmail.com! I'll try to respond as soon as I can.
@@ -26,11 +27,11 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Strapi](https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<!-- <p align="center"> -->
 <a href="https://github.com/npm-nic">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=npm-nic&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=npm-nic&layout=compact&langs_count=8&theme=react"/>
@@ -57,6 +58,6 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<!-- <p align="center"> -->
 <a href="https://linkedin.com/in/niclehman"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:lehmannic@gmail.com"><img src="https://img.shields.io/badge/-lehmannic@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
