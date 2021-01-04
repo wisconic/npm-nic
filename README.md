@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 🤔 &nbsp;React-Query changed how I think about global, local, and server state management.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🔭 &nbsp;I’m currently working with [R.E.S.S.E.T Studio](https://www.ressetstudio.com/pages/about) to help busy individuals practice mindful living in so they can live happier and healthier.\
+🔭 &nbsp;I’m currently working on a beta release with [R.E.S.S.E.T Studio](https://www.ressetstudio.com/pages/about) to help busy individuals practice mindful living in so they can live happier and healthier.\
 🎓 &nbsp;I'm was recently endorsed for completion of [Lambda School's](https://lambdaschool.com/) Full-Stack Web [Track](https://lambdaschool.com/courses/full-stack-web-development).\
 🌱 &nbsp;I'm learning more about Data Visualization, GraphQL, React Query and Full-Stack Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, volunteering, job opportunities or just for some interesting discussion.\
