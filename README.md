@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 🤔 &nbsp;React-Query changed how I think about global, local, and server state management.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🔭 &nbsp;I’m currently working on a beta release with [R.E.S.S.E.T Studio](https://www.ressetstudio.com/pages/about) to help busy individuals practice mindful living in so they can live happier and healthier.\
 🎓 &nbsp;I'm was recently endorsed for completion of [Lambda School's](https://lambdaschool.com/) Full-Stack Web [Track](https://lambdaschool.com/courses/full-stack-web-development).\
-🌱 &nbsp;I'm learning more about Data Visualization, GraphQL, React Query and Full-Stack Architecture.\
+🔭 &nbsp;I’m currently working on a beta release with [R.E.S.S.E.T Studio](https://www.ressetstudio.com/pages/about) to help busy individuals practice mindful living in so they can live happier and healthier.\
+🌱 &nbsp;I'm learning more about Mobile Development, React-Native, Full-Stack Architecture, and what it is like to work at a pre-seed startup.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, volunteering, job opportunities or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lehmannic@gmail.com! I'll try to respond as soon as I can.
 
@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 <!-- <p align="center"> -->
 <a href="https://linkedin.com/in/niclehman"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:lehmannic@gmail.com"><img src="https://img.shields.io/badge/-lehmannic@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:lehmannic@gmail.com"><img src="https://img.shields.io/badge/-Email Me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
