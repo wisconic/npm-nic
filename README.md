@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## 👋 &nbsp;Hey there! I'm Nic
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔭 &nbsp;I’m currently working on the front-end for a mobile beta release with [R.E.S.S.E.T Studio](https://www.ressetstudio.com/pages/about) to help busy individuals practice mindful living in so they can live happier and healthier.\
+🔭 &nbsp;I’m currently working on the front-end for a mobile beta release with [R.E.S.S.E.T Studio](https://www.ressetstudio.com/pages/about) to help busy individuals practice mindful living so they can live happier and healthier.\
 🌱 &nbsp;I'm learning more about Mobile Development, React-Native, Full-Stack Architecture, and what it is like to work at a pre-seed startup.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick prototypes that match the design team's vision.\
 🎓 &nbsp;I'm was recently endorsed for completion of [Lambda School's](https://lambdaschool.com/) Full-Stack Web [Track](https://lambdaschool.com/courses/full-stack-web-development).\
