@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 🌱 &nbsp;I'm am interested in learning more about DeFi Development, Javascript, Full-Stack Architecture & Testing, and what it is like to work on open source.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick prototypes that match the design team's vision.\
 🎓 &nbsp;I'm was recently endorsed for completion of [Lambda School's](https://lambdaschool.com/) Full-Stack Web [Track](https://lambdaschool.com/courses/full-stack-web-development).\
-🤔 &nbsp;[React Query](https://react-query.tanstack.com/overview) changed how I think about global, local, and server state management.\
+🤔 &nbsp;[React Query](https://react-query.tanstack.com/overview) changed how I think about global, local, and server state management.
+
+---
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -43,6 +45,8 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?&style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <!-- <p align="center"> -->
@@ -51,6 +55,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=npm-nic&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
+
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
