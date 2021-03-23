@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 ## 👋 &nbsp;Hey there! I'm Nic
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔭 &nbsp;I’m currently working on the front-end for a mobile beta release with [R.E.S.S.E.T Studio](https://www.ressetstudio.com/pages/about) to help busy individuals practice mindful living so they can live happier and healthier.\
-🌱 &nbsp;I'm learning more about Mobile Development, React-Native, Full-Stack Architecture & Testing, and what it is like to work at a pre-seed startup.\
+🔭 &nbsp;I’m recently finished working on the front-end for a mobile beta release with [R.E.S.S.E.T Studio](https://www.ressetstudio.com/pages/about) to help busy individuals practice mindful living so they can live happier and healthier -- `React Native` `Redux` `Realm` `MongoDb` `Node.js` .\
+🌱 &nbsp;I'm am interested in learning more about DeFi Development, Javascript, Full-Stack Architecture & Testing, and what it is like to work on open source.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick prototypes that match the design team's vision.\
 🎓 &nbsp;I'm was recently endorsed for completion of [Lambda School's](https://lambdaschool.com/) Full-Stack Web [Track](https://lambdaschool.com/courses/full-stack-web-development).\
 🤔 &nbsp;[React Query](https://react-query.tanstack.com/overview) changed how I think about global, local, and server state management.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting, volunteering, job opportunities or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at lehmannic@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
