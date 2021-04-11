@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 🔭 &nbsp;I recently finished working on the front-end for a mobile beta release with [R.E.S.S.E.T Studio](https://www.ressetstudio.com/pages/about) to help busy individuals practice mindful living so they can live happier and healthier -- `React Native` `Redux` `Realm` `MongoDb` `Node.js` .\
-🌱 &nbsp;I'm am currently learning more about Smart Contract/DeFi Development using Haskell/Plutus through [Cardano](https://cardano.org/)'s Plutus Pioneers [Program](https://developers.cardano.org/en/plutus-pioneer-program/). \
+🌱 &nbsp;I am currently learning more about Smart Contract/DeFi Development using Haskell/Plutus through [Cardano](https://cardano.org/)'s Plutus Pioneers [Program](https://developers.cardano.org/en/plutus-pioneer-program/). \
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick prototypes that match the design team's vision.\
-🎓 &nbsp;I'm was endorsed for the completion of [Lambda School's](https://lambdaschool.com/) Full-Stack Web [Track](https://lambdaschool.com/courses/full-stack-web-development) in December of 2020.\
+🎓 &nbsp;I was endorsed for the completion of [Lambda School's](https://lambdaschool.com/) Full-Stack Web [Track](https://lambdaschool.com/courses/full-stack-web-development) in December of 2020.\
 🤔 &nbsp;[React Query](https://react-query.tanstack.com/overview) changed how I think about global, local, and server state management.
 
 ---
